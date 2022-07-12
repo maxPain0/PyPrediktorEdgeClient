@@ -1,6 +1,8 @@
 # PyPrediktorEdgeClient
 A Python library to talk to Prediktor APIS/EDGE
 
+#dependencies
+Its required to use python 3.8 and pythonnet-2.5.2
 
 ## Installation
 IMPORTANT! This module is dependant on the PythonNet Module. If you are struggling with the install. Please try to install PythonNet on its own first:
